@@ -1,5 +1,5 @@
 # redfinScraper
-This scraper is built to scrape [Redfin](https://www.redfin.com) which is a Captcha protected website.
+This scraper is built to scrape [Redfin](https://www.redfin.com) for property listings which is a Captcha protected website.
 
 # Setup:
 It's built in python using following libraries:
