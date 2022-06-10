@@ -1,5 +1,5 @@
 # redfinScraper
-This scraper is built to scrape Redfin which is a Captcha protected website. It's built in python using following libraries:
+This scraper is built to scrape [Redfin](https://www.redfin.com) which is a Captcha protected website. It's built in python using following libraries:
 - Scrapy
 - Selenium
 - twocaptcha
