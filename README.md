@@ -20,5 +20,6 @@ This will scrape the URLs that are in the Data.csv form the previous step.
 
 Note that you would need 2captcha api(which is paid). And put the API key on line no. 12 before starting the final scrape because if the captcha appears the bot would break.
 
-Thanks & Regards
-TalhaPythoneer
+Let me know in case of any issues or queries.<br />
+Thanks & Regards<br />
+[TalhaPythoneer](https://www.talhapythoneer.com/)
